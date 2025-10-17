@@ -1,0 +1,2 @@
+BOT_TOKEN = "8340938514:AAEcvbNAP1kS2Azg9xcOBuAiJm1IGf6Snvw"
+CSV_FILE = "products.csv"
